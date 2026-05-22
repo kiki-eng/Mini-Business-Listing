@@ -14,7 +14,7 @@ Built with **Expo + React Native + React Native Web + TypeScript** — a single 
 | --- | --- |
 | Web | **[mini-business-listing-discovery.vercel.app](https://mini-business-listing-discovery.vercel.app/)** — open in any browser |
 | iOS (TestFlight) | _(TestFlight invite link goes here once Apple approves the build)_ |
-| Android (APK) | [Download installable APK](https://expo.dev/accounts/abosedekikelomo408/projects/mini-business-listing/builds/1f94fcf8-38ff-48c9-a49e-fdc7761acb36) — open on an Android device |
+| Android (APK) | [Download installable APK](https://expo.dev/accounts/abosedekikelomo408/projects/mini-business-listing/builds/a7286643-59ff-4629-ae99-e82696da5613) — open on an Android device |
 
 > Local development works out of the box — see [Getting Started](#getting-started).
 
